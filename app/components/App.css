@@ -1,0 +1,30 @@
+body {
+  background-color: #fff;
+  background-image:
+  linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+  linear-gradient(#eee .1em, transparent .1em);
+  background-size: 100% 1.2em;
+  height: 100vh;
+}
+
+.brd {
+  border: 0px solid red;
+}
+
+.main {
+  max-width: 730px;
+}
+
+.header {
+  border-bottom: 4px solid black;
+  padding: 0px;
+}
+
+.text-input {
+  padding: 10px;
+  text-align: center
+}
+
+.list {
+  padding: 10px;
+}
