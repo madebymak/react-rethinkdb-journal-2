@@ -1,3 +1,5 @@
+https://cloud.githubusercontent.com/assets/14519546/25073674/3eae60b6-22a0-11e7-88c3-8c5c0ccda721.png
+
 A second attempt at a react-rethinkdb-journal w/ a better ES6 boilerplate from https://github.com/jachinte/webpack-express-rethinkdb-boilerplate .
 
 1. Install dependencies with npm install.
